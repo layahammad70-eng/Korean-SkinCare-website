@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Korean Skincare</title>
+<link rel="stylesheet" href="ject.css">
+</head>
+
+<body>
+
+<header class="navbar">
+    <h1>Korean Skincare</h1>
+
+    <nav>
+        <ul class="nav-links">
+            <li><a href="index.php">Home</a></li>
+            <li><a href="products.php">Shop</a></li>
+            <li><a href="about.php">About</a></li>
+            <li><a href="contact.php">Contact</a></li>
+        </ul>
+    </nav>
+</header>
+
+<section class="hero">
+
+<h2>Discover the Secret of Healthy Korean Skin</h2>
+
+<p>
+Shop authentic Korean skincare products for radiant,
+healthy, and glowing skin.
+</p>
+
+<img src="korean.jpg" alt="Korean Skincare">
+
+<br><br>
+
+<a href="products.php" class="btn">Shop Now</a>
+
+</section>
+
+<footer>
+
+<p>© 2026 Korean Skincare. All Rights Reserved.</p>
+
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,44 @@
+   <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>About Us</title>
+
+<link rel="stylesheet" href="ject.css">
+</head>
+
+<body>
+
+<header class="navbar">
+<h1>Korean Skincare</h1>
+<nav>
+<ul class="nav-links">
+<li><a href="index.php">Home</a></li>
+<li><a href="products.php">Shop</a></li>
+<li><a href="about.php">About</a></li>
+<li><a href="contact.php">Contact</a></li>
+</ul>
+</nav>
+</header>
+
+<section class="content">
+<h2>About Us</h2>
+
+<p>
+Welcome to Korean Skincare.
+We provide authentic Korean beauty products that help 
+customers achieve healthy, glowing skin. Our mission is to make premium skincare affordable 
+while delivering excellent customer service.
+We carefully select trusted brands known for quality ingredients and proven results.
+</p>
+
+<a class="btn" href="index.php">Back Home</a>
+</section>
+
+<footer>
+<p>© 2026 Korean Skincare</p>
+</footer>
+
+</body>
+</html>

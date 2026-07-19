@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our Products</title>
+    <link rel="stylesheet" href="ject.css">
+</head>
+
+<body>
+
+<header class="navbar">
+
+<h1>Korean Skincare</h1>
+
+<nav>
+<ul class="nav-links">
+<li><a href="index.php">Home</a></li>
+<li><a href="products.php">Shop</a></li>
+<li><a href="about.php">About</a></li>
+<li><a href="contact.php">Contact</a></li>
+</ul>
+</nav>
+
+</header>
+
+<section class="products">
+
+<h2>Our Best Sellers</h2>
+
+<div class="product-container">
+
+    <div class="card">
+        <img src="images/serum.jpg" alt="Cleanser">
+        <h3>Foam Cleanser</h3>
+        <p>Gentle daily cleanser for all skin types.</p>
+        <h4>$18.99</h4>
+        <button>Add to Cart</button>
+    </div>
+
+    <div class="card">
+        <img src="images/toner.jpg" alt="Toner">
+        <h3>Hydrating Toner</h3>
+        <p>Refreshes and deeply hydrates the skin.</p>
+        <h4>$21.99</h4>
+        <button>Add to Cart</button>
+    </div>
+
+    <div class="card">
+        <img src="images/serum.jpg" alt="Serum">
+        <h3>Vitamin C Serum</h3>
+        <p>Brightens skin and reduces dark spots.</p>
+        <h4>$29.99</h4>
+        <button>Add to Cart</button>
+    </div>
+
+    <div class="card">
+        <img src="images/moisturizer.jpg" alt="Moisturizer">
+        <h3>Moisturizer</h3>
+        <p>Provides 24-hour hydration.</p>
+        <h4>$24.99</h4>
+        <button>Add to Cart</button>
+    </div>
+
+    <div class="card">
+        <img src="images/sunscreen.jpg" alt="Sunscreen">
+        <h3>SPF 50 Sunscreen</h3>
+        <p>Protects against harmful UV rays.</p>
+        <h4>$19.99</h4>
+        <button>Add to Cart</button>
+    </div>
+
+    <div class="card">
+        <img src="images/mask.jpg" alt="Face Mask">
+        <h3>Sheet Mask</h3>
+        <p>Nourishes and revitalizes tired skin.</p>
+        <h4>$4.99</h4>
+        <button>Add to Cart</button>
+    </div>
+
+</div>
+
+</section>
+
+<footer>
+<p>© 2026 Korean Skincare. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
